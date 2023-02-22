@@ -6,7 +6,7 @@ def isDisibleBy3(): #functioner, som gør koden mere læsbar
         print('fizz')
 def isDisibleBy5():
     if i % 5 == 0:
-        print('buzz')
+        print('buzz') ##buzzzzer
 def isDisibleBy3and5():
     if i % 3 == 0 and i % 5 == 0:
         print('fizzbuzz')
